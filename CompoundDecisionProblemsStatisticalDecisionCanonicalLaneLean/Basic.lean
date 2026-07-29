@@ -1,0 +1,2 @@
+import CompoundDecisionProblemsStatisticalDecisionCanonicalLaneLean.GateLemmas
+import CompoundDecisionProblemsStatisticalDecisionCanonicalLaneLean.FinalTheorem
